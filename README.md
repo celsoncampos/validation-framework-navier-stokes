@@ -93,4 +93,4 @@ The framework is available for independent verification.
 **Author**: Celso Campos  
 **License**: MIT  
 **Version**: 2.0
-**Last Updated**: August 2025
+**Last Updated**: August 19, 2025
