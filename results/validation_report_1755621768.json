@@ -1,0 +1,40 @@
+{
+  "framework_info": {
+    "version": "1.0.0",
+    "precision_level": "standard",
+    "grid_resolution": "64\u00b3",
+    "timestamp": "2025-08-19 17:42:48"
+  },
+  "validation_results": {
+    "fundamental_cancellation": {
+      "value": 9.18696232143029e-23,
+      "threshold": 5e-19,
+      "passed": "True"
+    },
+    "antisymmetric_dominance": {
+      "value": 1.0,
+      "threshold": 0.6,
+      "passed": "True"
+    },
+    "h1_norm_condition": {
+      "value": 0.6729999999999999,
+      "threshold": 1.003,
+      "passed": "True"
+    },
+    "incompressibility": {
+      "value": 1.231653667943533e-16,
+      "threshold": 1e-12,
+      "passed": "True"
+    },
+    "harmonic_pressure": {
+      "value": 1.1520157093556744e-20,
+      "threshold": 1e-08,
+      "passed": "True"
+    }
+  },
+  "stress_test_results": null,
+  "overall_validation": {
+    "passed": true,
+    "execution_time_seconds": 13.664870262145996
+  }
+}

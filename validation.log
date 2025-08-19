@@ -1,0 +1,47 @@
+2025-08-19 17:42:34,400 - INFO - Validation framework initialized - standard precision
+2025-08-19 17:42:34,921 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:34,921 - INFO - Max divergence: 1.83e-15
+2025-08-19 17:42:35,571 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:35,571 - INFO - Max divergence: 2.09e-15
+2025-08-19 17:42:36,159 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:36,159 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:36,717 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:36,717 - INFO - Max divergence: 2.46e-15
+2025-08-19 17:42:37,171 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:37,171 - INFO - Max divergence: 1.78e-15
+2025-08-19 17:42:37,635 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:37,635 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:38,096 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:38,096 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:38,556 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:38,556 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:39,011 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:39,012 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:39,460 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:39,460 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:39,938 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:39,938 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:40,396 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:40,397 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:40,844 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:40,844 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:41,329 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:41,330 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:41,785 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:41,785 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:42,284 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:42,284 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:42,729 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:42,729 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:43,197 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:43,197 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:43,685 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:43,685 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:44,167 - INFO - Generated field: ||u||_L2=0.538400
+2025-08-19 17:42:44,167 - INFO - Max divergence: 1.89e-15
+2025-08-19 17:42:44,299 - WARNING - Creating pure antisymmetric field
+2025-08-19 17:42:47,521 - INFO - Pure antisymmetric field: H¹=0.673000, max_div=1.23e-16
+2025-08-19 17:42:47,630 - INFO - Fundamental cancellation: -9.19e-23
+2025-08-19 17:42:47,630 - INFO - Relative to energy: 1.76e-19
+2025-08-19 17:42:47,630 - INFO - Verification: PASS
+2025-08-19 17:42:48,065 - INFO - Validation results saved to results/validation_report_1755621768.json
